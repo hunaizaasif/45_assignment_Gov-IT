@@ -1,0 +1,16 @@
+{
+  "name": "task-5-(famous-_quote)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "Modul",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
